@@ -2,7 +2,7 @@
 
 ![image 1](https://github.com/ayounge22/Building-Blocks/blob/main/Blockchain%201.png)
 
-![image 2](Images\Blockchain 2.png)
+![image 2](https://github.com/ayounge22/Building-Blocks/blob/main/Blockchain%202.png)
 
 ![image 3](Images\Blockchain 3.png)
 
