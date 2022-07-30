@@ -4,7 +4,7 @@
 
 ![image 2](https://github.com/ayounge22/Building-Blocks/blob/main/Blockchain%202.png)
 
-![image 3](Images\Blockchain 3.png)
+![image 3](https://github.com/ayounge22/Building-Blocks/blob/main/Blockchain%203.png)
 
 
 
