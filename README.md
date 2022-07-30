@@ -1,6 +1,6 @@
 # PyChain Ledger
 
-![image 1](Images\Blockchain 1.png)
+![image 1](https://github.com/ayounge22/Building-Blocks/blob/main/Blockchain%201.png)
 
 ![image 2](Images\Blockchain 2.png)
 
